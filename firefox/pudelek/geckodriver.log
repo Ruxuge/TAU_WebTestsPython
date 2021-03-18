@@ -1,0 +1,1277 @@
+1616063067631	geckodriver	INFO	Listening on 127.0.0.1:47069
+1616063067637	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileNx5YyW"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616063077562	Marionette	INFO	Listening on port 39895
+1616063077685	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 775))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 422))
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1616063129917	Marionette	INFO	Stopped listening on port 39895
+1616063130361	geckodriver	INFO	Listening on 127.0.0.1:44585
+1616063130366	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileHwSVJB"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616063140894	Marionette	INFO	Listening on port 45341
+1616063140922	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1616063532473	geckodriver	INFO	Listening on 127.0.0.1:45223
+1616063532480	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileURP8dm"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616063542410	Marionette	INFO	Listening on port 39467
+1616063542533	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+JavaScript error: https://www.pudelek.pl/MjAyMTAzYgsgGztnbgFvHmNDbzcxEhIZNR1veGMlb1BjJhILHiUSNR4mEgseJRI1HiYSCx4lEjUeJhILHiUSNR4mEgseJRI1HiYSCx4lEjUeJhILHiUSNR4mEgseJRI1HiYSCx4lEjUeJhILHiUSNR4mEgseJRI1HiYSCx4lEjUeJhILHiUSNR4mEgseJRI1HiYSCx4lEjUeJhILHiUSNR4mEgseJRI1HiYSCx4lEjUeJhILHiUSNR4mEgseJRI1HiYSCx4lEjUeJhILHiUSNR4mEgseJRI1HiYSCx4lEjUeJhILHiUSNR4mEgseJRI1HiYSCx4lEjUeJhILHiUSNR4mEgseJRI1HiYSCx4lEjUeJhILHiUSNR4mEgseJRI1HiYSCx4lEjUeJhILHiUSNR4mEgseJRI1HiYSCx4lEjUeJhILHiUSNR4mEgseJRI1HiYSCx5YYUg0W3d2bg09ADIVJDZuDT0AMhUkNmwJKgsxVycnYwc=, line 1: NS_ERROR_NOT_INITIALIZED: 
+1616063587607	Marionette	INFO	Stopped listening on port 39467
+1616063616683	geckodriver	INFO	Listening on 127.0.0.1:47991
+1616063616689	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilegoRsSG"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616063627431	Marionette	INFO	Listening on port 42397
+1616063627537	Marionette	WARN	TLS certificate errors will be ignored for this session
+SourceActor threw an exception: Error: Failed to fetch https://wp.hit.gemius.pl/_1616063637612/redot.js?l=103&id=zIs1vvfwOb_ON5CDaxZos8QK.s5WAEcK3o_.GxArQBf.f7&et=sonar&eventid=0&fr=1&tz=-60&fv=-&href=https%3A%2F%2Fwww.pudelek.pl%2F&ref=&screen=1920x1080r1000&col=24&window=1280x898&ltime=2723&lsdata=gcEa.MfYE5j7jKHH1nW4lCnaLiF8LRC57OrwsAXZSWr.i7t_JFJDbMi7ArqqxwtU7l5d.kWAVI64YHYIESmAgAmyDIEh/3QWeP67gtTb44/&fpdata=mdPbSbFuyDaF1AJ.O.hy7dyq2r9Kyw0B5MyuS.J4Cyr.r7&vis=1. Code 2152398919.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:556:16
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 556, column: 16
+console.error: (new Error("Failed to fetch https://wp.hit.gemius.pl/_1616063637612/redot.js?l=103&id=zIs1vvfwOb_ON5CDaxZos8QK.s5WAEcK3o_.GxArQBf.f7&et=sonar&eventid=0&fr=1&tz=-60&fv=-&href=https%3A%2F%2Fwww.pudelek.pl%2F&ref=&screen=1920x1080r1000&col=24&window=1280x898&ltime=2723&lsdata=gcEa.MfYE5j7jKHH1nW4lCnaLiF8LRC57OrwsAXZSWr.i7t_JFJDbMi7ArqqxwtU7l5d.kWAVI64YHYIESmAgAmyDIEh/3QWeP67gtTb44/&fpdata=mdPbSbFuyDaF1AJ.O.hy7dyq2r9Kyw0B5MyuS.J4Cyr.r7&vis=1. Code 2152398919.", "resource://devtools/shared/DevToolsUtils.js", 556))
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 556: Error: Failed to fetch https://wp.hit.gemius.pl/_1616063637612/redot.js?l=103&id=zIs1vvfwOb_ON5CDaxZos8QK.s5WAEcK3o_.GxArQBf.f7&et=sonar&eventid=0&fr=1&tz=-60&fv=-&href=https%3A%2F%2Fwww.pudelek.pl%2F&ref=&screen=1920x1080r1000&col=24&window=1280x898&ltime=2723&lsdata=gcEa.MfYE5j7jKHH1nW4lCnaLiF8LRC57OrwsAXZSWr.i7t_JFJDbMi7ArqqxwtU7l5d.kWAVI64YHYIESmAgAmyDIEh/3QWeP67gtTb44/&fpdata=mdPbSbFuyDaF1AJ.O.hy7dyq2r9Kyw0B5MyuS.J4Cyr.r7&vis=1. Code 2152398919.
+SourceActor threw an exception: Error: Failed to fetch https://wp.hit.gemius.pl/_1616063637610/rexdot.js?l=100&id=ciWbG89hpCQj7iMWD7aZXMPcXkFWhwdHPoxZRgi1kwH.o7&et=view&hsrc=1&initsonar=1&extra=&eventid=0&fr=1&tz=-60&fv=-&href=https%3A%2F%2Fwww.pudelek.pl%2F&ref=&screen=1920x1080r1000&col=24&window=1280x898&ltime=2723&lsdata=gcEa.MfYE5j7jKHH1nW4lCnaLiF8LRC57OrwsAXZSWr.i7t_JFJDbMi7ArqqxwtU7l5d.kWAVI64YHYIESmAgAmyDIEh/3QWeP67gtTb44/&fpdata=mdPbSbFuyDaF1AJ.O.hy7dyq2r9Kyw0B5MyuS.J4Cyr.r7&vis=1. Code 2152398919.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:556:16
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 556, column: 16
+console.error: (new Error("Failed to fetch https://wp.hit.gemius.pl/_1616063637610/rexdot.js?l=100&id=ciWbG89hpCQj7iMWD7aZXMPcXkFWhwdHPoxZRgi1kwH.o7&et=view&hsrc=1&initsonar=1&extra=&eventid=0&fr=1&tz=-60&fv=-&href=https%3A%2F%2Fwww.pudelek.pl%2F&ref=&screen=1920x1080r1000&col=24&window=1280x898&ltime=2723&lsdata=gcEa.MfYE5j7jKHH1nW4lCnaLiF8LRC57OrwsAXZSWr.i7t_JFJDbMi7ArqqxwtU7l5d.kWAVI64YHYIESmAgAmyDIEh/3QWeP67gtTb44/&fpdata=mdPbSbFuyDaF1AJ.O.hy7dyq2r9Kyw0B5MyuS.J4Cyr.r7&vis=1. Code 2152398919.", "resource://devtools/shared/DevToolsUtils.js", 556))
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 556: Error: Failed to fetch https://wp.hit.gemius.pl/_1616063637610/rexdot.js?l=100&id=ciWbG89hpCQj7iMWD7aZXMPcXkFWhwdHPoxZRgi1kwH.o7&et=view&hsrc=1&initsonar=1&extra=&eventid=0&fr=1&tz=-60&fv=-&href=https%3A%2F%2Fwww.pudelek.pl%2F&ref=&screen=1920x1080r1000&col=24&window=1280x898&ltime=2723&lsdata=gcEa.MfYE5j7jKHH1nW4lCnaLiF8LRC57OrwsAXZSWr.i7t_JFJDbMi7ArqqxwtU7l5d.kWAVI64YHYIESmAgAmyDIEh/3QWeP67gtTb44/&fpdata=mdPbSbFuyDaF1AJ.O.hy7dyq2r9Kyw0B5MyuS.J4Cyr.r7&vis=1. Code 2152398919.
+SourceActor threw an exception: Error: Failed to fetch https://wp.hit.gemius.pl/fpdata.js?href=www.pudelek.pl. Code 2152398919.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:556:16
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 556, column: 16
+console.error: (new Error("Failed to fetch https://wp.hit.gemius.pl/fpdata.js?href=www.pudelek.pl. Code 2152398919.", "resource://devtools/shared/DevToolsUtils.js", 556))
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 556: Error: Failed to fetch https://wp.hit.gemius.pl/fpdata.js?href=www.pudelek.pl. Code 2152398919.
+SourceActor threw an exception: Error: Failed to fetch https://gum.criteo.com/syncframe?topUrl=www.pudelek.pl&gdpr=1&gdpr_consent=CPDP722PDP722BIACCPLBRCgAP_AAH_AAB5YHmNf_X__b39j-_59_9t0eY1f9_7_v-0zjhfds-8N2f_X_L8X42M7vF36pq4KuR4Eu3LBIQFlHOHUTUmw6okVrTPsak2Mr7NKJ7LEinMbe2dYGHtfn91TuZKYr_7s_9_z__-__v__79f_r-3_3_vp9X---_e_V399xLv9QPKAJMNS-AizEscCSaNKoUQIQriQ6AUAFFCMLRNYQMrgp2VwEeoIGACA1ARgRAgxBRiwCAAACAJKIgJADwQCIAiAQAAgBUgIQAETAILACwMAgAFANCxAigCECQgyOCo5TAgIkWignkrAEou9jDCEMosAKBR_RUYCJQggWAAA.YAAAAAAAAAAA#{%22optout%22:{%22value%22:false,%22origin%22:0},%22uid%22:{%22origin%22:0},%22sid%22:{%22origin%22:0},%22origin%22:%22publishertag%22,%22version%22:105,%22lwid%22:{%22origin%22:0},%22tld%22:%22pudelek.pl%22,%22bundle%22:{%22origin%22:0},%22topUrl%22:%22www.pudelek.pl%22,%22cw%22:true,%22ifa%22:{%22origin%22:0},%22lsw%22:true}. Code 2147500036.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:556:16
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 556, column: 16
+console.error: (new Error("Failed to fetch https://gum.criteo.com/syncframe?topUrl=www.pudelek.pl&gdpr=1&gdpr_consent=CPDP722PDP722BIACCPLBRCgAP_AAH_AAB5YHmNf_X__b39j-_59_9t0eY1f9_7_v-0zjhfds-8N2f_X_L8X42M7vF36pq4KuR4Eu3LBIQFlHOHUTUmw6okVrTPsak2Mr7NKJ7LEinMbe2dYGHtfn91TuZKYr_7s_9_z__-__v__79f_r-3_3_vp9X---_e_V399xLv9QPKAJMNS-AizEscCSaNKoUQIQriQ6AUAFFCMLRNYQMrgp2VwEeoIGACA1ARgRAgxBRiwCAAACAJKIgJADwQCIAiAQAAgBUgIQAETAILACwMAgAFANCxAigCECQgyOCo5TAgIkWignkrAEou9jDCEMosAKBR_RUYCJQggWAAA.YAAAAAAAAAAA#{%22optout%22:{%22value%22:false,%22origin%22:0},%22uid%22:{%22origin%22:0},%22sid%22:{%22origin%22:0},%22origin%22:%22publishertag%22,%22version%22:105,%22lwid%22:{%22origin%22:0},%22tld%22:%22pudelek.pl%22,%22bundle%22:{%22origin%22:0},%22topUrl%22:%22www.pudelek.pl%22,%22cw%22:true,%22ifa%22:{%22origin%22:0},%22lsw%22:true}. Code 2147500036.", "resource://devtools/shared/DevToolsUtils.js", 556))
+SourceActor threw an exception: Error: Failed to fetch https://sync-eu.connectad.io/syncer/1?gdpr=1&consent=CPDP722PDP722BIACCPLBRCgAP_AAH_AAB5YHmNf_X__b39j-_59_9t0eY1f9_7_v-0zjhfds-8N2f_X_L8X42M7vF36pq4KuR4Eu3LBIQFlHOHUTUmw6okVrTPsak2Mr7NKJ7LEinMbe2dYGHtfn91TuZKYr_7s_9_z__-__v__79f_r-3_3_vp9X---_e_V399xLv9QPKAJMNS-AizEscCSaNKoUQIQriQ6AUAFFCMLRNYQMrgp2VwEeoIGACA1ARgRAgxBRiwCAAACAJKIgJADwQCIAiAQAAgBUgIQAETAILACwMAgAFANCxAigCECQgyOCo5TAgIkWignkrAEou9jDCEMosAKBR_RUYCJQggWAAA.YAAAAAAAAAAA&redirectUri=https%3A%2F%2Fssp.wp.pl%2Fpbs%2Fv1%2Fsetuid%3Fgdpr%3D1%26gdpr_consent%3DCPDP722PDP722BIACCPLBRCgAP_AAH_AAB5YHmNf_X__b39j-_59_9t0eY1f9_7_v-0zjhfds-8N2f_X_L8X42M7vF36pq4KuR4Eu3LBIQFlHOHUTUmw6okVrTPsak2Mr7NKJ7LEinMbe2dYGHtfn91TuZKYr_7s_9_z__-__v__79f_r-3_3_vp9X---_e_V399xLv9QPKAJMNS-AizEscCSaNKoUQIQriQ6AUAFFCMLRNYQMrgp2VwEeoIGACA1ARgRAgxBRiwCAAACAJKIgJADwQCIAiAQAAgBUgIQAETAILACwMAgAFANCxAigCECQgyOCo5TAgIkWignkrAEou9jDCEMosAKBR_RUYCJQggWAAA.YAAAAAAAAAAA%26bidder%3Dconnectad%26uid%3D. Code 2147500036.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:556:16
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 556, column: 16
+console.error: (new Error("Failed to fetch https://sync-eu.connectad.io/syncer/1?gdpr=1&consent=CPDP722PDP722BIACCPLBRCgAP_AAH_AAB5YHmNf_X__b39j-_59_9t0eY1f9_7_v-0zjhfds-8N2f_X_L8X42M7vF36pq4KuR4Eu3LBIQFlHOHUTUmw6okVrTPsak2Mr7NKJ7LEinMbe2dYGHtfn91TuZKYr_7s_9_z__-__v__79f_r-3_3_vp9X---_e_V399xLv9QPKAJMNS-AizEscCSaNKoUQIQriQ6AUAFFCMLRNYQMrgp2VwEeoIGACA1ARgRAgxBRiwCAAACAJKIgJADwQCIAiAQAAgBUgIQAETAILACwMAgAFANCxAigCECQgyOCo5TAgIkWignkrAEou9jDCEMosAKBR_RUYCJQggWAAA.YAAAAAAAAAAA&redirectUri=https%3A%2F%2Fssp.wp.pl%2Fpbs%2Fv1%2Fsetuid%3Fgdpr%3D1%26gdpr_consent%3DCPDP722PDP722BIACCPLBRCgAP_AAH_AAB5YHmNf_X__b39j-_59_9t0eY1f9_7_v-0zjhfds-8N2f_X_L8X42M7vF36pq4KuR4Eu3LBIQFlHOHUTUmw6okVrTPsak2Mr7NKJ7LEinMbe2dYGHtfn91TuZKYr_7s_9_z__-__v__79f_r-3_3_vp9X---_e_V399xLv9QPKAJMNS-AizEscCSaNKoUQIQriQ6AUAFFCMLRNYQMrgp2VwEeoIGACA1ARgRAgxBRiwCAAACAJKIgJADwQCIAiAQAAgBUgIQAETAILACwMAgAFANCxAigCECQgyOCo5TAgIkWignkrAEou9jDCEMosAKBR_RUYCJQggWAAA.YAAAAAAAAAAA%26bidder%3Dconnectad%26uid%3D. Code 2147500036.", "resource://devtools/shared/DevToolsUtils.js", 556))
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 556: Error: Failed to fetch https://gum.criteo.com/syncframe?topUrl=www.pudelek.pl&gdpr=1&gdpr_consent=CPDP722PDP722BIACCPLBRCgAP_AAH_AAB5YHmNf_X__b39j-_59_9t0eY1f9_7_v-0zjhfds-8N2f_X_L8X42M7vF36pq4KuR4Eu3LBIQFlHOHUTUmw6okVrTPsak2Mr7NKJ7LEinMbe2dYGHtfn91TuZKYr_7s_9_z__-__v__79f_r-3_3_vp9X---_e_V399xLv9QPKAJMNS-AizEscCSaNKoUQIQriQ6AUAFFCMLRNYQMrgp2VwEeoIGACA1ARgRAgxBRiwCAAACAJKIgJADwQCIAiAQAAgBUgIQAETAILACwMAgAFANCxAigCECQgyOCo5TAgIkWignkrAEou9jDCEMosAKBR_RUYCJQggWAAA.YAAAAAAAAAAA#{%22optout%22:{%22value%22:false,%22origin%22:0},%22uid%22:{%22origin%22:0},%22sid%22:{%22origin%22:0},%22origin%22:%22publishertag%22,%22version%22:105,%22lwid%22:{%22origin%22:0},%22tld%22:%22pudelek.pl%22,%22bundle%22:{%22origin%22:0},%22topUrl%22:%22www.pudelek.pl%22,%22cw%22:true,%22ifa%22:{%22origin%22:0},%22lsw%22:true}. Code 2147500036.
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 556: Error: Failed to fetch https://sync-eu.connectad.io/syncer/1?gdpr=1&consent=CPDP722PDP722BIACCPLBRCgAP_AAH_AAB5YHmNf_X__b39j-_59_9t0eY1f9_7_v-0zjhfds-8N2f_X_L8X42M7vF36pq4KuR4Eu3LBIQFlHOHUTUmw6okVrTPsak2Mr7NKJ7LEinMbe2dYGHtfn91TuZKYr_7s_9_z__-__v__79f_r-3_3_vp9X---_e_V399xLv9QPKAJMNS-AizEscCSaNKoUQIQriQ6AUAFFCMLRNYQMrgp2VwEeoIGACA1ARgRAgxBRiwCAAACAJKIgJADwQCIAiAQAAgBUgIQAETAILACwMAgAFANCxAigCECQgyOCo5TAgIkWignkrAEou9jDCEMosAKBR_RUYCJQggWAAA.YAAAAAAAAAAA&redirectUri=https%3A%2F%2Fssp.wp.pl%2Fpbs%2Fv1%2Fsetuid%3Fgdpr%3D1%26gdpr_consent%3DCPDP722PDP722BIACCPLBRCgAP_AAH_AAB5YHmNf_X__b39j-_59_9t0eY1f9_7_v-0zjhfds-8N2f_X_L8X42M7vF36pq4KuR4Eu3LBIQFlHOHUTUmw6okVrTPsak2Mr7NKJ7LEinMbe2dYGHtfn91TuZKYr_7s_9_z__-__v__79f_r-3_3_vp9X---_e_V399xLv9QPKAJMNS-AizEscCSaNKoUQIQriQ6AUAFFCMLRNYQMrgp2VwEeoIGACA1ARgRAgxBRiwCAAACAJKIgJADwQCIAiAQAAgBUgIQAETAILACwMAgAFANCxAigCECQgyOCo5TAgIkWignkrAEou9jDCEMosAKBR_RUYCJQggWAAA.YAAAAAAAAAAA%26bidder%3Dconnectad%26uid%3D. Code 2147500036.
+SourceActor threw an exception: Error: Failed to fetch https://www.pudelek.pl/. Code 2147500036.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:556:16
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 556, column: 16
+console.error: (new Error("Failed to fetch https://www.pudelek.pl/. Code 2147500036.", "resource://devtools/shared/DevToolsUtils.js", 556))
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 556: Error: Failed to fetch https://www.pudelek.pl/. Code 2147500036.
+JavaScript error: , line 0: TypeError: Failed to update the ServiceWorker for scope https://www.pudelek.pl/ because the registration has been changed since the update was scheduled.
+JavaScript error: resource://devtools/server/actors/targets/browsing-context.js, line 1885: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/browsing-context.js, line 1885: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/browsing-context.js, line 1885: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/browsing-context.js, line 1885: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/browsing-context.js, line 1885: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/browsing-context.js, line 1885: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/browsing-context.js, line 1885: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/browsing-context.js, line 1885: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/browsing-context.js, line 1885: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/browsing-context.js, line 1885: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/browsing-context.js, line 1885: TypeError: can't access dead object
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: resource://devtools/server/actors/targets/browsing-context.js, line 1885: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/browsing-context.js, line 1885: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/browsing-context.js, line 1885: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/browsing-context.js, line 1885: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/browsing-context.js, line 1885: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/browsing-context.js, line 1885: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/browsing-context.js, line 1885: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/browsing-context.js, line 1885: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/browsing-context.js, line 1885: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/browsing-context.js, line 1885: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/browsing-context.js, line 1885: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/browsing-context.js, line 1885: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/browsing-context.js, line 1885: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/browsing-context.js, line 1885: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/browsing-context.js, line 1885: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/browsing-context.js, line 1885: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/browsing-context.js, line 1885: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/browsing-context.js, line 1885: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/browsing-context.js, line 1885: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/browsing-context.js, line 1885: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/browsing-context.js, line 1885: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/browsing-context.js, line 1885: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/browsing-context.js, line 1885: TypeError: can't access dead object
+1616063766325	geckodriver	INFO	Listening on 127.0.0.1:60113
+1616063766362	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileg1cnsg"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1616063778528	Marionette	INFO	Listening on port 42937
+1616063778648	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616063780242	Marionette	INFO	Stopped listening on port 42397
+JavaScript error: , line 0: TypeError: Failed to update the ServiceWorker for scope https://www.pudelek.pl/ because the registration has been changed since the update was scheduled.
+SourceActor threw an exception: Error: Failed to fetch https://www.pudelek.pl/. Code 2152398919.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:556:16
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 556, column: 16
+console.error: (new Error("Failed to fetch https://www.pudelek.pl/. Code 2152398919.", "resource://devtools/shared/DevToolsUtils.js", 556))
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 556: Error: Failed to fetch https://www.pudelek.pl/. Code 2152398919.
+SourceActor threw an exception: Error: Failed to fetch https://sync-eu.connectad.io/syncer/1?gdpr=1&consent=CPDP8OHPDP8OHBIACCPLBRCgAP_AAH_AAB5YHmNf_X__b39j-_59_9t0eY1f9_7_v-0zjhfds-8N2f_X_L8X42M7vF36pq4KuR4Eu3LBIQFlHOHUTUmw6okVrTPsak2Mr7NKJ7LEinMbe2dYGHtfn91TuZKYr_7s_9_z__-__v__79f_r-3_3_vp9X---_e_V399xLv9QPKAJMNS-AizEscCSaNKoUQIQriQ6AUAFFCMLRNYQMrgp2VwEeoIGACA1ARgRAgxBRiwCAAACAJKIgJADwQCIAiAQAAgBUgIQAETAILACwMAgAFANCxAigCECQgyOCo5TAgIkWignkrAEou9jDCEMosAKBR_RUYCJQggWAAA.YAAAAAAAAAAA&redirectUri=https%3A%2F%2Fssp.wp.pl%2Fpbs%2Fv1%2Fsetuid%3Fgdpr%3D1%26gdpr_consent%3DCPDP8OHPDP8OHBIACCPLBRCgAP_AAH_AAB5YHmNf_X__b39j-_59_9t0eY1f9_7_v-0zjhfds-8N2f_X_L8X42M7vF36pq4KuR4Eu3LBIQFlHOHUTUmw6okVrTPsak2Mr7NKJ7LEinMbe2dYGHtfn91TuZKYr_7s_9_z__-__v__79f_r-3_3_vp9X---_e_V399xLv9QPKAJMNS-AizEscCSaNKoUQIQriQ6AUAFFCMLRNYQMrgp2VwEeoIGACA1ARgRAgxBRiwCAAACAJKIgJADwQCIAiAQAAgBUgIQAETAILACwMAgAFANCxAigCECQgyOCo5TAgIkWignkrAEou9jDCEMosAKBR_RUYCJQggWAAA.YAAAAAAAAAAA%26bidder%3Dconnectad%26uid%3D. Code 2147500036.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:556:16
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 556, column: 16
+console.error: (new Error("Failed to fetch https://sync-eu.connectad.io/syncer/1?gdpr=1&consent=CPDP8OHPDP8OHBIACCPLBRCgAP_AAH_AAB5YHmNf_X__b39j-_59_9t0eY1f9_7_v-0zjhfds-8N2f_X_L8X42M7vF36pq4KuR4Eu3LBIQFlHOHUTUmw6okVrTPsak2Mr7NKJ7LEinMbe2dYGHtfn91TuZKYr_7s_9_z__-__v__79f_r-3_3_vp9X---_e_V399xLv9QPKAJMNS-AizEscCSaNKoUQIQriQ6AUAFFCMLRNYQMrgp2VwEeoIGACA1ARgRAgxBRiwCAAACAJKIgJADwQCIAiAQAAgBUgIQAETAILACwMAgAFANCxAigCECQgyOCo5TAgIkWignkrAEou9jDCEMosAKBR_RUYCJQggWAAA.YAAAAAAAAAAA&redirectUri=https%3A%2F%2Fssp.wp.pl%2Fpbs%2Fv1%2Fsetuid%3Fgdpr%3D1%26gdpr_consent%3DCPDP8OHPDP8OHBIACCPLBRCgAP_AAH_AAB5YHmNf_X__b39j-_59_9t0eY1f9_7_v-0zjhfds-8N2f_X_L8X42M7vF36pq4KuR4Eu3LBIQFlHOHUTUmw6okVrTPsak2Mr7NKJ7LEinMbe2dYGHtfn91TuZKYr_7s_9_z__-__v__79f_r-3_3_vp9X---_e_V399xLv9QPKAJMNS-AizEscCSaNKoUQIQriQ6AUAFFCMLRNYQMrgp2VwEeoIGACA1ARgRAgxBRiwCAAACAJKIgJADwQCIAiAQAAgBUgIQAETAILACwMAgAFANCxAigCECQgyOCo5TAgIkWignkrAEou9jDCEMosAKBR_RUYCJQggWAAA.YAAAAAAAAAAA%26bidder%3Dconnectad%26uid%3D. Code 2147500036.", "resource://devtools/shared/DevToolsUtils.js", 556))
+SourceActor threw an exception: Error: Failed to fetch https://gum.criteo.com/syncframe?topUrl=www.pudelek.pl&gdpr=1&gdpr_consent=CPDP8OHPDP8OHBIACCPLBRCgAP_AAH_AAB5YHmNf_X__b39j-_59_9t0eY1f9_7_v-0zjhfds-8N2f_X_L8X42M7vF36pq4KuR4Eu3LBIQFlHOHUTUmw6okVrTPsak2Mr7NKJ7LEinMbe2dYGHtfn91TuZKYr_7s_9_z__-__v__79f_r-3_3_vp9X---_e_V399xLv9QPKAJMNS-AizEscCSaNKoUQIQriQ6AUAFFCMLRNYQMrgp2VwEeoIGACA1ARgRAgxBRiwCAAACAJKIgJADwQCIAiAQAAgBUgIQAETAILACwMAgAFANCxAigCECQgyOCo5TAgIkWignkrAEou9jDCEMosAKBR_RUYCJQggWAAA.YAAAAAAAAAAA#{%22optout%22:{%22value%22:false,%22origin%22:0},%22uid%22:{%22origin%22:0},%22sid%22:{%22origin%22:0},%22origin%22:%22publishertag%22,%22version%22:105,%22lwid%22:{%22origin%22:0},%22tld%22:%22pudelek.pl%22,%22bundle%22:{%22origin%22:0},%22topUrl%22:%22www.pudelek.pl%22,%22cw%22:true,%22ifa%22:{%22origin%22:0},%22lsw%22:true}. Code 2147500036.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:556:16
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 556, column: 16
+console.error: (new Error("Failed to fetch https://gum.criteo.com/syncframe?topUrl=www.pudelek.pl&gdpr=1&gdpr_consent=CPDP8OHPDP8OHBIACCPLBRCgAP_AAH_AAB5YHmNf_X__b39j-_59_9t0eY1f9_7_v-0zjhfds-8N2f_X_L8X42M7vF36pq4KuR4Eu3LBIQFlHOHUTUmw6okVrTPsak2Mr7NKJ7LEinMbe2dYGHtfn91TuZKYr_7s_9_z__-__v__79f_r-3_3_vp9X---_e_V399xLv9QPKAJMNS-AizEscCSaNKoUQIQriQ6AUAFFCMLRNYQMrgp2VwEeoIGACA1ARgRAgxBRiwCAAACAJKIgJADwQCIAiAQAAgBUgIQAETAILACwMAgAFANCxAigCECQgyOCo5TAgIkWignkrAEou9jDCEMosAKBR_RUYCJQggWAAA.YAAAAAAAAAAA#{%22optout%22:{%22value%22:false,%22origin%22:0},%22uid%22:{%22origin%22:0},%22sid%22:{%22origin%22:0},%22origin%22:%22publishertag%22,%22version%22:105,%22lwid%22:{%22origin%22:0},%22tld%22:%22pudelek.pl%22,%22bundle%22:{%22origin%22:0},%22topUrl%22:%22www.pudelek.pl%22,%22cw%22:true,%22ifa%22:{%22origin%22:0},%22lsw%22:true}. Code 2147500036.", "resource://devtools/shared/DevToolsUtils.js", 556))
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 556: Error: Failed to fetch https://sync-eu.connectad.io/syncer/1?gdpr=1&consent=CPDP8OHPDP8OHBIACCPLBRCgAP_AAH_AAB5YHmNf_X__b39j-_59_9t0eY1f9_7_v-0zjhfds-8N2f_X_L8X42M7vF36pq4KuR4Eu3LBIQFlHOHUTUmw6okVrTPsak2Mr7NKJ7LEinMbe2dYGHtfn91TuZKYr_7s_9_z__-__v__79f_r-3_3_vp9X---_e_V399xLv9QPKAJMNS-AizEscCSaNKoUQIQriQ6AUAFFCMLRNYQMrgp2VwEeoIGACA1ARgRAgxBRiwCAAACAJKIgJADwQCIAiAQAAgBUgIQAETAILACwMAgAFANCxAigCECQgyOCo5TAgIkWignkrAEou9jDCEMosAKBR_RUYCJQggWAAA.YAAAAAAAAAAA&redirectUri=https%3A%2F%2Fssp.wp.pl%2Fpbs%2Fv1%2Fsetuid%3Fgdpr%3D1%26gdpr_consent%3DCPDP8OHPDP8OHBIACCPLBRCgAP_AAH_AAB5YHmNf_X__b39j-_59_9t0eY1f9_7_v-0zjhfds-8N2f_X_L8X42M7vF36pq4KuR4Eu3LBIQFlHOHUTUmw6okVrTPsak2Mr7NKJ7LEinMbe2dYGHtfn91TuZKYr_7s_9_z__-__v__79f_r-3_3_vp9X---_e_V399xLv9QPKAJMNS-AizEscCSaNKoUQIQriQ6AUAFFCMLRNYQMrgp2VwEeoIGACA1ARgRAgxBRiwCAAACAJKIgJADwQCIAiAQAAgBUgIQAETAILACwMAgAFANCxAigCECQgyOCo5TAgIkWignkrAEou9jDCEMosAKBR_RUYCJQggWAAA.YAAAAAAAAAAA%26bidder%3Dconnectad%26uid%3D. Code 2147500036.
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 556: Error: Failed to fetch https://gum.criteo.com/syncframe?topUrl=www.pudelek.pl&gdpr=1&gdpr_consent=CPDP8OHPDP8OHBIACCPLBRCgAP_AAH_AAB5YHmNf_X__b39j-_59_9t0eY1f9_7_v-0zjhfds-8N2f_X_L8X42M7vF36pq4KuR4Eu3LBIQFlHOHUTUmw6okVrTPsak2Mr7NKJ7LEinMbe2dYGHtfn91TuZKYr_7s_9_z__-__v__79f_r-3_3_vp9X---_e_V399xLv9QPKAJMNS-AizEscCSaNKoUQIQriQ6AUAFFCMLRNYQMrgp2VwEeoIGACA1ARgRAgxBRiwCAAACAJKIgJADwQCIAiAQAAgBUgIQAETAILACwMAgAFANCxAigCECQgyOCo5TAgIkWignkrAEou9jDCEMosAKBR_RUYCJQggWAAA.YAAAAAAAAAAA#{%22optout%22:{%22value%22:false,%22origin%22:0},%22uid%22:{%22origin%22:0},%22sid%22:{%22origin%22:0},%22origin%22:%22publishertag%22,%22version%22:105,%22lwid%22:{%22origin%22:0},%22tld%22:%22pudelek.pl%22,%22bundle%22:{%22origin%22:0},%22topUrl%22:%22www.pudelek.pl%22,%22cw%22:true,%22ifa%22:{%22origin%22:0},%22lsw%22:true}. Code 2147500036.
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1616063864632	Marionette	INFO	Stopped listening on port 42937
+1616063875796	geckodriver	INFO	Listening on 127.0.0.1:42765
+1616063875802	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilejLfF9q"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616063884348	Marionette	INFO	Listening on port 34101
+1616063884445	Marionette	WARN	TLS certificate errors will be ignored for this session
+SourceActor threw an exception: Error: Failed to fetch https://www.pudelek.pl/. Code 2147500036.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:556:16
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 556, column: 16
+console.error: (new Error("Failed to fetch https://www.pudelek.pl/. Code 2147500036.", "resource://devtools/shared/DevToolsUtils.js", 556))
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 556: Error: Failed to fetch https://www.pudelek.pl/. Code 2147500036.
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+SourceActor threw an exception: Error: Failed to fetch https://sync-eu.connectad.io/syncer/1?gdpr=1&consent=CPDP8elPDP8elBIACCPLBRCgAP_AAH_AAB5YHmNf_X__b39j-_59_9t0eY1f9_7_v-0zjhfds-8N2f_X_L8X42M7vF36pq4KuR4Eu3LBIQFlHOHUTUmw6okVrTPsak2Mr7NKJ7LEinMbe2dYGHtfn91TuZKYr_7s_9_z__-__v__79f_r-3_3_vp9X---_e_V399xLv9QPKAJMNS-AizEscCSaNKoUQIQriQ6AUAFFCMLRNYQMrgp2VwEeoIGACA1ARgRAgxBRiwCAAACAJKIgJADwQCIAiAQAAgBUgIQAETAILACwMAgAFANCxAigCECQgyOCo5TAgIkWignkrAEou9jDCEMosAKBR_RUYCJQggWAAA.YAAAAAAAAAAA&redirectUri=https%3A%2F%2Fssp.wp.pl%2Fpbs%2Fv1%2Fsetuid%3Fgdpr%3D1%26gdpr_consent%3DCPDP8elPDP8elBIACCPLBRCgAP_AAH_AAB5YHmNf_X__b39j-_59_9t0eY1f9_7_v-0zjhfds-8N2f_X_L8X42M7vF36pq4KuR4Eu3LBIQFlHOHUTUmw6okVrTPsak2Mr7NKJ7LEinMbe2dYGHtfn91TuZKYr_7s_9_z__-__v__79f_r-3_3_vp9X---_e_V399xLv9QPKAJMNS-AizEscCSaNKoUQIQriQ6AUAFFCMLRNYQMrgp2VwEeoIGACA1ARgRAgxBRiwCAAACAJKIgJADwQCIAiAQAAgBUgIQAETAILACwMAgAFANCxAigCECQgyOCo5TAgIkWignkrAEou9jDCEMosAKBR_RUYCJQggWAAA.YAAAAAAAAAAA%26bidder%3Dconnectad%26uid%3D. Code 2147500036.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:556:16
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 556, column: 16
+console.error: (new Error("Failed to fetch https://sync-eu.connectad.io/syncer/1?gdpr=1&consent=CPDP8elPDP8elBIACCPLBRCgAP_AAH_AAB5YHmNf_X__b39j-_59_9t0eY1f9_7_v-0zjhfds-8N2f_X_L8X42M7vF36pq4KuR4Eu3LBIQFlHOHUTUmw6okVrTPsak2Mr7NKJ7LEinMbe2dYGHtfn91TuZKYr_7s_9_z__-__v__79f_r-3_3_vp9X---_e_V399xLv9QPKAJMNS-AizEscCSaNKoUQIQriQ6AUAFFCMLRNYQMrgp2VwEeoIGACA1ARgRAgxBRiwCAAACAJKIgJADwQCIAiAQAAgBUgIQAETAILACwMAgAFANCxAigCECQgyOCo5TAgIkWignkrAEou9jDCEMosAKBR_RUYCJQggWAAA.YAAAAAAAAAAA&redirectUri=https%3A%2F%2Fssp.wp.pl%2Fpbs%2Fv1%2Fsetuid%3Fgdpr%3D1%26gdpr_consent%3DCPDP8elPDP8elBIACCPLBRCgAP_AAH_AAB5YHmNf_X__b39j-_59_9t0eY1f9_7_v-0zjhfds-8N2f_X_L8X42M7vF36pq4KuR4Eu3LBIQFlHOHUTUmw6okVrTPsak2Mr7NKJ7LEinMbe2dYGHtfn91TuZKYr_7s_9_z__-__v__79f_r-3_3_vp9X---_e_V399xLv9QPKAJMNS-AizEscCSaNKoUQIQriQ6AUAFFCMLRNYQMrgp2VwEeoIGACA1ARgRAgxBRiwCAAACAJKIgJADwQCIAiAQAAgBUgIQAETAILACwMAgAFANCxAigCECQgyOCo5TAgIkWignkrAEou9jDCEMosAKBR_RUYCJQggWAAA.YAAAAAAAAAAA%26bidder%3Dconnectad%26uid%3D. Code 2147500036.", "resource://devtools/shared/DevToolsUtils.js", 556))
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 556: Error: Failed to fetch https://sync-eu.connectad.io/syncer/1?gdpr=1&consent=CPDP8elPDP8elBIACCPLBRCgAP_AAH_AAB5YHmNf_X__b39j-_59_9t0eY1f9_7_v-0zjhfds-8N2f_X_L8X42M7vF36pq4KuR4Eu3LBIQFlHOHUTUmw6okVrTPsak2Mr7NKJ7LEinMbe2dYGHtfn91TuZKYr_7s_9_z__-__v__79f_r-3_3_vp9X---_e_V399xLv9QPKAJMNS-AizEscCSaNKoUQIQriQ6AUAFFCMLRNYQMrgp2VwEeoIGACA1ARgRAgxBRiwCAAACAJKIgJADwQCIAiAQAAgBUgIQAETAILACwMAgAFANCxAigCECQgyOCo5TAgIkWignkrAEou9jDCEMosAKBR_RUYCJQggWAAA.YAAAAAAAAAAA&redirectUri=https%3A%2F%2Fssp.wp.pl%2Fpbs%2Fv1%2Fsetuid%3Fgdpr%3D1%26gdpr_consent%3DCPDP8elPDP8elBIACCPLBRCgAP_AAH_AAB5YHmNf_X__b39j-_59_9t0eY1f9_7_v-0zjhfds-8N2f_X_L8X42M7vF36pq4KuR4Eu3LBIQFlHOHUTUmw6okVrTPsak2Mr7NKJ7LEinMbe2dYGHtfn91TuZKYr_7s_9_z__-__v__79f_r-3_3_vp9X---_e_V399xLv9QPKAJMNS-AizEscCSaNKoUQIQriQ6AUAFFCMLRNYQMrgp2VwEeoIGACA1ARgRAgxBRiwCAAACAJKIgJADwQCIAiAQAAgBUgIQAETAILACwMAgAFANCxAigCECQgyOCo5TAgIkWignkrAEou9jDCEMosAKBR_RUYCJQggWAAA.YAAAAAAAAAAA%26bidder%3Dconnectad%26uid%3D. Code 2147500036.
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+Handler function threw an exception: TypeError: timings.REQUEST_HEADER is undefined
+Stack: _getBlockedTiming@resource://devtools/server/actors/network-monitor/network-observer.js:1249:7
+_setupHarTimings@resource://devtools/server/actors/network-monitor/network-observer.js:1442:31
+_onTransactionClose@resource://devtools/server/actors/network-monitor/network-observer.js:1233:27
+_dispatchActivity@resource://devtools/server/actors/network-monitor/network-observer.js:634:14
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:740:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1249, column: 7
+console.error: (new TypeError("timings.REQUEST_HEADER is undefined", "resource://devtools/server/actors/network-monitor/network-observer.js", 1249))
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1616064014758	Marionette	INFO	Stopped listening on port 34101
+1616064020926	geckodriver	INFO	Listening on 127.0.0.1:48383
+1616064020932	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilecHqF1n"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616064030695	Marionette	INFO	Listening on port 33097
+1616064030778	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1616064055416	Marionette	INFO	Stopped listening on port 33097
+1616064091370	geckodriver	INFO	Listening on 127.0.0.1:35783
+1616064091377	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilepIXmdb"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616064102683	Marionette	INFO	Listening on port 37337
+1616064102739	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1616064131403	Marionette	INFO	Stopped listening on port 37337
+1616064172248	geckodriver	INFO	Listening on 127.0.0.1:53937
+1616064172254	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileF54E1e"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616064181710	Marionette	INFO	Listening on port 37605
+1616064181828	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://1login.wp.pl"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://1login.wp.pl"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://1login.wp.pl"
+1616064273853	geckodriver	INFO	Listening on 127.0.0.1:60061
+1616064273859	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile2aPypU"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616064283186	Marionette	INFO	Listening on port 45113
+1616064283314	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 775))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 422))
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: , line 0: AbortError: The operation was aborted. 
+1616064310992	Marionette	INFO	Stopped listening on port 45113
+1616064333286	geckodriver	INFO	Listening on 127.0.0.1:57823
+1616064333292	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile9SIB4D"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616064341251	Marionette	INFO	Listening on port 45121
+1616064341339	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: Failed to update the ServiceWorker for scope https://www.pudelek.pl/ because the registration has been changed since the update was scheduled.
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1616064416537	Marionette	INFO	Stopped listening on port 45121
+1616064426622	geckodriver	INFO	Listening on 127.0.0.1:37275
+1616064426628	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileVy8Iza"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616064434655	Marionette	INFO	Listening on port 38029
+1616064434794	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: Failed to update the ServiceWorker for scope https://www.pudelek.pl/ because the registration has been changed since the update was scheduled.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://1login.wp.pl"
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1616064533463	geckodriver	INFO	Listening on 127.0.0.1:51879
+1616064533471	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiledKGgNV"
+1616064534284	Marionette	INFO	Stopped listening on port 38029
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616064542932	Marionette	INFO	Listening on port 37577
+1616064543017	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1616064639299	geckodriver	INFO	Listening on 127.0.0.1:51593
+1616064639305	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile6rx6J3"
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1616064647104	Marionette	INFO	Stopped listening on port 37577
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616064651322	Marionette	INFO	Listening on port 33935
+1616064651362	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 775))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 422))
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1616064684024	Marionette	INFO	Stopped listening on port 33935
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1616064692085	Marionette	INFO	Stopped listening on port 45341
+1616064692372	Marionette	INFO	Stopped listening on port 37605
+1616064693483	geckodriver	INFO	Listening on 127.0.0.1:51919
+1616064693489	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilew7U6BQ"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616064703767	Marionette	INFO	Listening on port 35169
+1616064703853	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: Failed to update the ServiceWorker for scope https://www.pudelek.pl/ because the registration has been changed since the update was scheduled.
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1616064762144	Marionette	INFO	Stopped listening on port 35169
+1616064771118	geckodriver	INFO	Listening on 127.0.0.1:48415
+1616064771123	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile8UdlOf"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616064780723	Marionette	INFO	Listening on port 46867
+1616064780788	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1616064835937	Marionette	INFO	Stopped listening on port 46867
+1616065061124	geckodriver	INFO	Listening on 127.0.0.1:55039
+1616065061131	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilepKO5HQ"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616065071683	Marionette	INFO	Listening on port 44321
+1616065071804	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: Failed to update the ServiceWorker for scope https://www.pudelek.pl/ because the registration has been changed since the update was scheduled.
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1616065124133	geckodriver	INFO	Listening on 127.0.0.1:33253
+1616065124138	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilexdr4A8"
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1616065126027	Marionette	INFO	Stopped listening on port 44321
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616065136558	Marionette	INFO	Listening on port 35665
+1616065136597	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: Failed to update the ServiceWorker for scope https://www.pudelek.pl/ because the registration has been changed since the update was scheduled.
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1616065221487	Marionette	INFO	Stopped listening on port 35665
+1616065222135	geckodriver	INFO	Listening on 127.0.0.1:48235
+1616065222140	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilePkcBY4"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616065232308	Marionette	INFO	Listening on port 43019
+1616065232392	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1616065281849	Marionette	INFO	Stopped listening on port 43019
+1616065581459	geckodriver	INFO	Listening on 127.0.0.1:54901
+1616065581464	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileATqQuk"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616065592214	Marionette	INFO	Listening on port 43149
+1616065592320	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: Failed to update the ServiceWorker for scope https://www.pudelek.pl/ because the registration has been changed since the update was scheduled.
+1616065638212	Marionette	INFO	Stopped listening on port 43149
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1616065698435	geckodriver	INFO	Listening on 127.0.0.1:46507
+1616065698441	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileq2J6pA"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616065709929	Marionette	INFO	Listening on port 44135
+1616065709990	Marionette	WARN	TLS certificate errors will be ignored for this session
+Handler function threw an exception: TypeError: timings.REQUEST_HEADER is undefined
+Stack: _getBlockedTiming@resource://devtools/server/actors/network-monitor/network-observer.js:1249:7
+_setupHarTimings@resource://devtools/server/actors/network-monitor/network-observer.js:1442:31
+_onTransactionClose@resource://devtools/server/actors/network-monitor/network-observer.js:1233:27
+_dispatchActivity@resource://devtools/server/actors/network-monitor/network-observer.js:634:14
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:740:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1249, column: 7
+console.error: (new TypeError("timings.REQUEST_HEADER is undefined", "resource://devtools/server/actors/network-monitor/network-observer.js", 1249))
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+1616065910527	geckodriver	INFO	Listening on 127.0.0.1:45035
+1616065910533	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileGktlcg"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616065919416	Marionette	INFO	Listening on port 38525
+1616065919484	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: Failed to update the ServiceWorker for scope https://www.pudelek.pl/ because the registration has been changed since the update was scheduled.
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1616065964219	Marionette	INFO	Stopped listening on port 38525
+1616065980436	geckodriver	INFO	Listening on 127.0.0.1:36745
+1616065980442	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile7cZLgG"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616065991761	Marionette	INFO	Listening on port 33071
+1616065991792	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: Failed to update the ServiceWorker for scope https://www.pudelek.pl/ because the registration has been changed since the update was scheduled.
+1616066056877	geckodriver	INFO	Listening on 127.0.0.1:42321
+1616066056884	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilexXgESU"
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1616066063493	Marionette	INFO	Stopped listening on port 33071
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616066066781	Marionette	INFO	Listening on port 41831
+1616066066848	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1616066103829	geckodriver	INFO	Listening on 127.0.0.1:51511
+1616066103835	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile18jJr0"
+1616066105062	Marionette	INFO	Stopped listening on port 41831
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616066115593	Marionette	INFO	Listening on port 37609
+1616066115685	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+1616066171814	Marionette	INFO	Stopped listening on port 37609
+1616066194313	geckodriver	INFO	Listening on 127.0.0.1:54643
+1616066194319	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileAybhmy"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616066203680	Marionette	INFO	Listening on port 34589
+1616066203774	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://devtools/client/jsonview/Sniffer.jsm, line 56: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIChannel.contentType]
+JavaScript error: resource://devtools/client/jsonview/Sniffer.jsm, line 56: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIChannel.contentType]
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1616066318276	geckodriver	INFO	Listening on 127.0.0.1:44501
+1616066318282	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZlAJ7f"
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1616066322169	Marionette	INFO	Stopped listening on port 34589
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616066330024	Marionette	INFO	Listening on port 36109
+1616066330133	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: Failed to update the ServiceWorker for scope https://www.pudelek.pl/ because the registration has been changed since the update was scheduled.
+JavaScript error: https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021031501.js, line 6: uncaught exception: undefined
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: "getGrids@resource://devtools/server/actors/layout.js:502:26\ngetGrids@resource://devtools/server/actors/layout.js:507:43\ngetGrids@resource://devtools/server/actors/layout.js:507:43\ngetGrids@resource://devtools/server/actors/layout.js:507:43\ngetGrids@resource://devtools/server/actors/layout.js:507:43\ngetGrids@resource://devtools/server/actors/layout.js:507:43\nhandler@resource://devtools/shared/protocol/Actor.js:172:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:68:16\n"
+JavaScript error: https://www.pudelek.pl/donosy/, line 8: ReferenceError: osdlfm is not defined
+JavaScript error: resource://devtools/server/actors/targets/browsing-context.js, line 1885: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/browsing-context.js, line 1885: TypeError: can't access dead object
+JavaScript error: resource://devtools/server/actors/targets/browsing-context.js, line 1885: TypeError: can't access dead object
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1616066425659	geckodriver	INFO	Listening on 127.0.0.1:36379
+1616066425665	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileKgxo70"
+1616066425930	Marionette	INFO	Stopped listening on port 36109
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616066434931	Marionette	INFO	Listening on port 33625
+1616066435008	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616066461398	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1616066499865	geckodriver	INFO	Listening on 127.0.0.1:33911
+1616066499871	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile7xnSXM"
+1616066502170	Marionette	INFO	Stopped listening on port 33625
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616066510281	Marionette	INFO	Listening on port 46525
+1616066510321	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616066538256	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: , line 0: TypeError: Failed to update the ServiceWorker for scope https://www.pudelek.pl/ because the registration has been changed since the update was scheduled.
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1616066606077	geckodriver	INFO	Listening on 127.0.0.1:49695
+1616066606083	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilenKjj2L"
+1616066606325	Marionette	INFO	Stopped listening on port 46525
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616066615777	Marionette	INFO	Listening on port 40041
+1616066615827	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: Failed to update the ServiceWorker for scope https://www.pudelek.pl/ because the registration has been changed since the update was scheduled.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1616066722414	Marionette	INFO	Stopped listening on port 40041
+1616066722845	geckodriver	INFO	Listening on 127.0.0.1:50569
+1616066722851	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile4v2t1C"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616066733225	Marionette	INFO	Listening on port 45269
+1616066733298	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 775))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 422))
+1616066780878	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "node is null"
+console.error: "getLayout@resource://devtools/server/actors/page-style.js:1002:5\nhandler@resource://devtools/shared/protocol/Actor.js:172:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:68:16\n"
+console.warn: "fetching media rules failed" (new Error("Connection closed, pending request to server0.conn0.child3/stylesheet978, type getMediaRules failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:288:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\nonStyleSheetAdded@resource://devtools/shared/resources/legacy-listeners/stylesheet.js:17:37\nmodule.exports/<@resource://devtools/shared/resources/legacy-listeners/stylesheet.js:113:28\n_emit@resource://devtools/shared/event-emitter.js:226:34\nemit@resource://devtools/shared/event-emitter.js:172:18\nemit@resource://devtools/shared/event-emitter.js:324:18\nonPacket@resource://devtools/shared/protocol/Front.js:332:13\nonPacket@resource://devtools/client/devtools-client.js:489:13\nsend/<@resource://devtools/shared/transport/local-transport.js:68:25\nexports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22\nexports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22\n", "resource://devtools/shared/protocol/Front.js", 99))
+console.warn: "Inspector destroyed while executing onReflow callback"
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: https://tpc.googlesyndication.com/sodar/Enqz_20U.html, line 35: NS_ERROR_NOT_INITIALIZED: 
+1616066825701	Marionette	INFO	Stopped listening on port 45269
+1616067045674	geckodriver	INFO	Listening on 127.0.0.1:58551
+1616067045680	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilemyExQh"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616067055649	Marionette	INFO	Listening on port 34977
+1616067055732	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616067085228	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1616067087309	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1616067106770	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1633: Error: permitUnload is already running for this tab.
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1616067112338	Marionette	INFO	Stopped listening on port 34977
+1616067168406	geckodriver	INFO	Listening on 127.0.0.1:36521
+1616067168412	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilecU0awX"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616067178841	Marionette	INFO	Listening on port 41563
+1616067178968	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616067210303	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+SourceActor threw an exception: Error: Failed to fetch https://www.pudelek.pl/. Code 2147500036.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:556:16
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 556, column: 16
+console.error: (new Error("Failed to fetch https://www.pudelek.pl/. Code 2147500036.", "resource://devtools/shared/DevToolsUtils.js", 556))
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 556: Error: Failed to fetch https://www.pudelek.pl/. Code 2147500036.
+SourceActor threw an exception: Error: Failed to fetch https://gum.criteo.com/syncframe?topUrl=www.pudelek.pl&gdpr=1&gdpr_consent=CPDQEhMPDQEhMBIACCPLBRCgAP_AAH_AAB5YHmNf_X__b39j-_59_9t0eY1f9_7_v-0zjhfds-8N2f_X_L8X42M7vF36pq4KuR4Eu3LBIQFlHOHUTUmw6okVrTPsak2Mr7NKJ7LEinMbe2dYGHtfn91TuZKYr_7s_9_z__-__v__79f_r-3_3_vp9X---_e_V399xLv9QPKAJMNS-AizEscCSaNKoUQIQriQ6AUAFFCMLRNYQMrgp2VwEeoIGACA1ARgRAgxBRiwCAAACAJKIgJADwQCIAiAQAAgBUgIQAETAILACwMAgAFANCxAigCECQgyOCo5TAgIkWignkrAEou9jDCEMosAKBR_RUYCJQggWAAA.YAAAAAAAAAAA#{%22optout%22:{%22value%22:false,%22origin%22:0},%22uid%22:{%22origin%22:0},%22sid%22:{%22origin%22:0},%22origin%22:%22publishertag%22,%22version%22:105,%22lwid%22:{%22origin%22:0},%22tld%22:%22pudelek.pl%22,%22bundle%22:{%22origin%22:0},%22topUrl%22:%22www.pudelek.pl%22,%22cw%22:true,%22ifa%22:{%22origin%22:0},%22lsw%22:true}. Code 2147500036.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:556:16
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 556, column: 16
+console.error: (new Error("Failed to fetch https://gum.criteo.com/syncframe?topUrl=www.pudelek.pl&gdpr=1&gdpr_consent=CPDQEhMPDQEhMBIACCPLBRCgAP_AAH_AAB5YHmNf_X__b39j-_59_9t0eY1f9_7_v-0zjhfds-8N2f_X_L8X42M7vF36pq4KuR4Eu3LBIQFlHOHUTUmw6okVrTPsak2Mr7NKJ7LEinMbe2dYGHtfn91TuZKYr_7s_9_z__-__v__79f_r-3_3_vp9X---_e_V399xLv9QPKAJMNS-AizEscCSaNKoUQIQriQ6AUAFFCMLRNYQMrgp2VwEeoIGACA1ARgRAgxBRiwCAAACAJKIgJADwQCIAiAQAAgBUgIQAETAILACwMAgAFANCxAigCECQgyOCo5TAgIkWignkrAEou9jDCEMosAKBR_RUYCJQggWAAA.YAAAAAAAAAAA#{%22optout%22:{%22value%22:false,%22origin%22:0},%22uid%22:{%22origin%22:0},%22sid%22:{%22origin%22:0},%22origin%22:%22publishertag%22,%22version%22:105,%22lwid%22:{%22origin%22:0},%22tld%22:%22pudelek.pl%22,%22bundle%22:{%22origin%22:0},%22topUrl%22:%22www.pudelek.pl%22,%22cw%22:true,%22ifa%22:{%22origin%22:0},%22lsw%22:true}. Code 2147500036.", "resource://devtools/shared/DevToolsUtils.js", 556))
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 556: Error: Failed to fetch https://gum.criteo.com/syncframe?topUrl=www.pudelek.pl&gdpr=1&gdpr_consent=CPDQEhMPDQEhMBIACCPLBRCgAP_AAH_AAB5YHmNf_X__b39j-_59_9t0eY1f9_7_v-0zjhfds-8N2f_X_L8X42M7vF36pq4KuR4Eu3LBIQFlHOHUTUmw6okVrTPsak2Mr7NKJ7LEinMbe2dYGHtfn91TuZKYr_7s_9_z__-__v__79f_r-3_3_vp9X---_e_V399xLv9QPKAJMNS-AizEscCSaNKoUQIQriQ6AUAFFCMLRNYQMrgp2VwEeoIGACA1ARgRAgxBRiwCAAACAJKIgJADwQCIAiAQAAgBUgIQAETAILACwMAgAFANCxAigCECQgyOCo5TAgIkWignkrAEou9jDCEMosAKBR_RUYCJQggWAAA.YAAAAAAAAAAA#{%22optout%22:{%22value%22:false,%22origin%22:0},%22uid%22:{%22origin%22:0},%22sid%22:{%22origin%22:0},%22origin%22:%22publishertag%22,%22version%22:105,%22lwid%22:{%22origin%22:0},%22tld%22:%22pudelek.pl%22,%22bundle%22:{%22origin%22:0},%22topUrl%22:%22www.pudelek.pl%22,%22cw%22:true,%22ifa%22:{%22origin%22:0},%22lsw%22:true}. Code 2147500036.
+SourceActor threw an exception: Error: Failed to fetch https://sync-eu.connectad.io/syncer/1?gdpr=1&gdpr_consent=CPDQEhMPDQEhMBIACCPLBRCgAP_AAH_AAB5YHmNf_X__b39j-_59_9t0eY1f9_7_v-0zjhfds-8N2f_X_L8X42M7vF36pq4KuR4Eu3LBIQFlHOHUTUmw6okVrTPsak2Mr7NKJ7LEinMbe2dYGHtfn91TuZKYr_7s_9_z__-__v__79f_r-3_3_vp9X---_e_V399xLv9QPKAJMNS-AizEscCSaNKoUQIQriQ6AUAFFCMLRNYQMrgp2VwEeoIGACA1ARgRAgxBRiwCAAACAJKIgJADwQCIAiAQAAgBUgIQAETAILACwMAgAFANCxAigCECQgyOCo5TAgIkWignkrAEou9jDCEMosAKBR_RUYCJQggWAAA.YAAAAAAAAAAA&. Code 2147500036.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:556:16
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 556, column: 16
+console.error: (new Error("Failed to fetch https://sync-eu.connectad.io/syncer/1?gdpr=1&gdpr_consent=CPDQEhMPDQEhMBIACCPLBRCgAP_AAH_AAB5YHmNf_X__b39j-_59_9t0eY1f9_7_v-0zjhfds-8N2f_X_L8X42M7vF36pq4KuR4Eu3LBIQFlHOHUTUmw6okVrTPsak2Mr7NKJ7LEinMbe2dYGHtfn91TuZKYr_7s_9_z__-__v__79f_r-3_3_vp9X---_e_V399xLv9QPKAJMNS-AizEscCSaNKoUQIQriQ6AUAFFCMLRNYQMrgp2VwEeoIGACA1ARgRAgxBRiwCAAACAJKIgJADwQCIAiAQAAgBUgIQAETAILACwMAgAFANCxAigCECQgyOCo5TAgIkWignkrAEou9jDCEMosAKBR_RUYCJQggWAAA.YAAAAAAAAAAA&. Code 2147500036.", "resource://devtools/shared/DevToolsUtils.js", 556))
+SourceActor threw an exception: Error: Failed to fetch https://sync-eu.connectad.io/syncer/1?gdpr=1&consent=CPDQEhMPDQEhMBIACCPLBRCgAP_AAH_AAB5YHmNf_X__b39j-_59_9t0eY1f9_7_v-0zjhfds-8N2f_X_L8X42M7vF36pq4KuR4Eu3LBIQFlHOHUTUmw6okVrTPsak2Mr7NKJ7LEinMbe2dYGHtfn91TuZKYr_7s_9_z__-__v__79f_r-3_3_vp9X---_e_V399xLv9QPKAJMNS-AizEscCSaNKoUQIQriQ6AUAFFCMLRNYQMrgp2VwEeoIGACA1ARgRAgxBRiwCAAACAJKIgJADwQCIAiAQAAgBUgIQAETAILACwMAgAFANCxAigCECQgyOCo5TAgIkWignkrAEou9jDCEMosAKBR_RUYCJQggWAAA.YAAAAAAAAAAA&redirectUri=https%3A%2F%2Fssp.wp.pl%2Fpbs%2Fv1%2Fsetuid%3Fgdpr%3D1%26gdpr_consent%3DCPDQEhMPDQEhMBIACCPLBRCgAP_AAH_AAB5YHmNf_X__b39j-_59_9t0eY1f9_7_v-0zjhfds-8N2f_X_L8X42M7vF36pq4KuR4Eu3LBIQFlHOHUTUmw6okVrTPsak2Mr7NKJ7LEinMbe2dYGHtfn91TuZKYr_7s_9_z__-__v__79f_r-3_3_vp9X---_e_V399xLv9QPKAJMNS-AizEscCSaNKoUQIQriQ6AUAFFCMLRNYQMrgp2VwEeoIGACA1ARgRAgxBRiwCAAACAJKIgJADwQCIAiAQAAgBUgIQAETAILACwMAgAFANCxAigCECQgyOCo5TAgIkWignkrAEou9jDCEMosAKBR_RUYCJQggWAAA.YAAAAAAAAAAA%26bidder%3Dconnectad%26uid%3D. Code 2147500036.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:556:16
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 556, column: 16
+console.error: (new Error("Failed to fetch https://sync-eu.connectad.io/syncer/1?gdpr=1&consent=CPDQEhMPDQEhMBIACCPLBRCgAP_AAH_AAB5YHmNf_X__b39j-_59_9t0eY1f9_7_v-0zjhfds-8N2f_X_L8X42M7vF36pq4KuR4Eu3LBIQFlHOHUTUmw6okVrTPsak2Mr7NKJ7LEinMbe2dYGHtfn91TuZKYr_7s_9_z__-__v__79f_r-3_3_vp9X---_e_V399xLv9QPKAJMNS-AizEscCSaNKoUQIQriQ6AUAFFCMLRNYQMrgp2VwEeoIGACA1ARgRAgxBRiwCAAACAJKIgJADwQCIAiAQAAgBUgIQAETAILACwMAgAFANCxAigCECQgyOCo5TAgIkWignkrAEou9jDCEMosAKBR_RUYCJQggWAAA.YAAAAAAAAAAA&redirectUri=https%3A%2F%2Fssp.wp.pl%2Fpbs%2Fv1%2Fsetuid%3Fgdpr%3D1%26gdpr_consent%3DCPDQEhMPDQEhMBIACCPLBRCgAP_AAH_AAB5YHmNf_X__b39j-_59_9t0eY1f9_7_v-0zjhfds-8N2f_X_L8X42M7vF36pq4KuR4Eu3LBIQFlHOHUTUmw6okVrTPsak2Mr7NKJ7LEinMbe2dYGHtfn91TuZKYr_7s_9_z__-__v__79f_r-3_3_vp9X---_e_V399xLv9QPKAJMNS-AizEscCSaNKoUQIQriQ6AUAFFCMLRNYQMrgp2VwEeoIGACA1ARgRAgxBRiwCAAACAJKIgJADwQCIAiAQAAgBUgIQAETAILACwMAgAFANCxAigCECQgyOCo5TAgIkWignkrAEou9jDCEMosAKBR_RUYCJQggWAAA.YAAAAAAAAAAA%26bidder%3Dconnectad%26uid%3D. Code 2147500036.", "resource://devtools/shared/DevToolsUtils.js", 556))
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 556: Error: Failed to fetch https://sync-eu.connectad.io/syncer/1?gdpr=1&gdpr_consent=CPDQEhMPDQEhMBIACCPLBRCgAP_AAH_AAB5YHmNf_X__b39j-_59_9t0eY1f9_7_v-0zjhfds-8N2f_X_L8X42M7vF36pq4KuR4Eu3LBIQFlHOHUTUmw6okVrTPsak2Mr7NKJ7LEinMbe2dYGHtfn91TuZKYr_7s_9_z__-__v__79f_r-3_3_vp9X---_e_V399xLv9QPKAJMNS-AizEscCSaNKoUQIQriQ6AUAFFCMLRNYQMrgp2VwEeoIGACA1ARgRAgxBRiwCAAACAJKIgJADwQCIAiAQAAgBUgIQAETAILACwMAgAFANCxAigCECQgyOCo5TAgIkWignkrAEou9jDCEMosAKBR_RUYCJQggWAAA.YAAAAAAAAAAA&. Code 2147500036.
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 556: Error: Failed to fetch https://sync-eu.connectad.io/syncer/1?gdpr=1&consent=CPDQEhMPDQEhMBIACCPLBRCgAP_AAH_AAB5YHmNf_X__b39j-_59_9t0eY1f9_7_v-0zjhfds-8N2f_X_L8X42M7vF36pq4KuR4Eu3LBIQFlHOHUTUmw6okVrTPsak2Mr7NKJ7LEinMbe2dYGHtfn91TuZKYr_7s_9_z__-__v__79f_r-3_3_vp9X---_e_V399xLv9QPKAJMNS-AizEscCSaNKoUQIQriQ6AUAFFCMLRNYQMrgp2VwEeoIGACA1ARgRAgxBRiwCAAACAJKIgJADwQCIAiAQAAgBUgIQAETAILACwMAgAFANCxAigCECQgyOCo5TAgIkWignkrAEou9jDCEMosAKBR_RUYCJQggWAAA.YAAAAAAAAAAA&redirectUri=https%3A%2F%2Fssp.wp.pl%2Fpbs%2Fv1%2Fsetuid%3Fgdpr%3D1%26gdpr_consent%3DCPDQEhMPDQEhMBIACCPLBRCgAP_AAH_AAB5YHmNf_X__b39j-_59_9t0eY1f9_7_v-0zjhfds-8N2f_X_L8X42M7vF36pq4KuR4Eu3LBIQFlHOHUTUmw6okVrTPsak2Mr7NKJ7LEinMbe2dYGHtfn91TuZKYr_7s_9_z__-__v__79f_r-3_3_vp9X---_e_V399xLv9QPKAJMNS-AizEscCSaNKoUQIQriQ6AUAFFCMLRNYQMrgp2VwEeoIGACA1ARgRAgxBRiwCAAACAJKIgJADwQCIAiAQAAgBUgIQAETAILACwMAgAFANCxAigCECQgyOCo5TAgIkWignkrAEou9jDCEMosAKBR_RUYCJQggWAAA.YAAAAAAAAAAA%26bidder%3Dconnectad%26uid%3D. Code 2147500036.
+SourceActor threw an exception: Error: Failed to fetch https://wp.hit.gemius.pl/fpdata.js?href=www.pudelek.pl. Code 2147500036.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:556:16
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 556, column: 16
+console.error: (new Error("Failed to fetch https://wp.hit.gemius.pl/fpdata.js?href=www.pudelek.pl. Code 2147500036.", "resource://devtools/shared/DevToolsUtils.js", 556))
+SourceActor threw an exception: Error: Failed to fetch https://wp.hit.gemius.pl/_1616067182638/rexdot.js?l=100&id=ciWbG89hpCQj7iMWD7aZXMPcXkFWhwdHPoxZRgi1kwH.o7&et=view&hsrc=1&initsonar=1&extra=&eventid=0&fr=1&tz=-60&fv=-&href=https%3A%2F%2Fwww.pudelek.pl%2F&ref=&screen=1920x1080r1000&col=24&window=1280x898&ltime=568&lsdata=I87Bz62DZHoK.yok74iPV20cwQnckQttXSicihD8qvz.E7x2A6BQVyMvV1GYohnpNcZd.Jm7PFAB0Mmd0esID5p1oKTY/sQXhyUcMPMdb3/&fpdata=KTvM4yRvDK_WX0.1.X2VtHSmuKiISAXWzITS4IJzHgz.m7&vis=1. Code 2147500036.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:556:16
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 556, column: 16
+console.error: (new Error("Failed to fetch https://wp.hit.gemius.pl/_1616067182638/rexdot.js?l=100&id=ciWbG89hpCQj7iMWD7aZXMPcXkFWhwdHPoxZRgi1kwH.o7&et=view&hsrc=1&initsonar=1&extra=&eventid=0&fr=1&tz=-60&fv=-&href=https%3A%2F%2Fwww.pudelek.pl%2F&ref=&screen=1920x1080r1000&col=24&window=1280x898&ltime=568&lsdata=I87Bz62DZHoK.yok74iPV20cwQnckQttXSicihD8qvz.E7x2A6BQVyMvV1GYohnpNcZd.Jm7PFAB0Mmd0esID5p1oKTY/sQXhyUcMPMdb3/&fpdata=KTvM4yRvDK_WX0.1.X2VtHSmuKiISAXWzITS4IJzHgz.m7&vis=1. Code 2147500036.", "resource://devtools/shared/DevToolsUtils.js", 556))
+SourceActor threw an exception: Error: Failed to fetch https://wp.hit.gemius.pl/_1616067182640/redot.js?l=103&id=zIs1vvfwOb_ON5CDaxZos8QK.s5WAEcK3o_.GxArQBf.f7&et=sonar&eventid=0&fr=1&tz=-60&fv=-&href=https%3A%2F%2Fwww.pudelek.pl%2F&ref=&screen=1920x1080r1000&col=24&window=1280x898&ltime=568&lsdata=I87Bz62DZHoK.yok74iPV20cwQnckQttXSicihD8qvz.E7x2A6BQVyMvV1GYohnpNcZd.Jm7PFAB0Mmd0esID5p1oKTY/sQXhyUcMPMdb3/&fpdata=KTvM4yRvDK_WX0.1.X2VtHSmuKiISAXWzITS4IJzHgz.m7&vis=1. Code 2147500036.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:556:16
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 556, column: 16
+console.error: (new Error("Failed to fetch https://wp.hit.gemius.pl/_1616067182640/redot.js?l=103&id=zIs1vvfwOb_ON5CDaxZos8QK.s5WAEcK3o_.GxArQBf.f7&et=sonar&eventid=0&fr=1&tz=-60&fv=-&href=https%3A%2F%2Fwww.pudelek.pl%2F&ref=&screen=1920x1080r1000&col=24&window=1280x898&ltime=568&lsdata=I87Bz62DZHoK.yok74iPV20cwQnckQttXSicihD8qvz.E7x2A6BQVyMvV1GYohnpNcZd.Jm7PFAB0Mmd0esID5p1oKTY/sQXhyUcMPMdb3/&fpdata=KTvM4yRvDK_WX0.1.X2VtHSmuKiISAXWzITS4IJzHgz.m7&vis=1. Code 2147500036.", "resource://devtools/shared/DevToolsUtils.js", 556))
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 556: Error: Failed to fetch https://wp.hit.gemius.pl/fpdata.js?href=www.pudelek.pl. Code 2147500036.
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 556: Error: Failed to fetch https://wp.hit.gemius.pl/_1616067182638/rexdot.js?l=100&id=ciWbG89hpCQj7iMWD7aZXMPcXkFWhwdHPoxZRgi1kwH.o7&et=view&hsrc=1&initsonar=1&extra=&eventid=0&fr=1&tz=-60&fv=-&href=https%3A%2F%2Fwww.pudelek.pl%2F&ref=&screen=1920x1080r1000&col=24&window=1280x898&ltime=568&lsdata=I87Bz62DZHoK.yok74iPV20cwQnckQttXSicihD8qvz.E7x2A6BQVyMvV1GYohnpNcZd.Jm7PFAB0Mmd0esID5p1oKTY/sQXhyUcMPMdb3/&fpdata=KTvM4yRvDK_WX0.1.X2VtHSmuKiISAXWzITS4IJzHgz.m7&vis=1. Code 2147500036.
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 556: Error: Failed to fetch https://wp.hit.gemius.pl/_1616067182640/redot.js?l=103&id=zIs1vvfwOb_ON5CDaxZos8QK.s5WAEcK3o_.GxArQBf.f7&et=sonar&eventid=0&fr=1&tz=-60&fv=-&href=https%3A%2F%2Fwww.pudelek.pl%2F&ref=&screen=1920x1080r1000&col=24&window=1280x898&ltime=568&lsdata=I87Bz62DZHoK.yok74iPV20cwQnckQttXSicihD8qvz.E7x2A6BQVyMvV1GYohnpNcZd.Jm7PFAB0Mmd0esID5p1oKTY/sQXhyUcMPMdb3/&fpdata=KTvM4yRvDK_WX0.1.X2VtHSmuKiISAXWzITS4IJzHgz.m7&vis=1. Code 2147500036.
+SourceActor threw an exception: Error: Failed to fetch https://image6.pubmatic.com/AdServer/PugMaster?kdntuid=1&rnd=70248546&p=156077&s=0&a=0&ptask=ALL&np=0&fp=0&mpc=0&spug=1&coppa=0&gdpr=1&gdpr_consent=CPDQEhMPDQEhMBIACCPLBRCgAP_AAH_AAB5YHmNf_X__b39j-_59_9t0eY1f9_7_v-0zjhfds-8N2f_X_L8X42M7vF36pq4KuR4Eu3LBIQFlHOHUTUmw6okVrTPsak2Mr7NKJ7LEinMbe2dYGHtfn91TuZKYr_7s_9_z__-__v__79f_r-3_3_vp9X---_e_V399xLv9QPKAJMNS-AizEscCSaNKoUQIQriQ6AUAFFCMLRNYQMrgp2VwEeoIGACA1ARgRAgxBRiwCAAACAJKIgJADwQCIAiAQAAgBUgIQAETAILACwMAgAFANCxAigCECQgyOCo5TAgIkWignkrAEou9jDCEMosAKBR_RUYCJQggWAAA.YAAAAAAAAAAA&us_privacy=&sec=1. Code 2147500036.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:556:16
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 556, column: 16
+console.error: (new Error("Failed to fetch https://image6.pubmatic.com/AdServer/PugMaster?kdntuid=1&rnd=70248546&p=156077&s=0&a=0&ptask=ALL&np=0&fp=0&mpc=0&spug=1&coppa=0&gdpr=1&gdpr_consent=CPDQEhMPDQEhMBIACCPLBRCgAP_AAH_AAB5YHmNf_X__b39j-_59_9t0eY1f9_7_v-0zjhfds-8N2f_X_L8X42M7vF36pq4KuR4Eu3LBIQFlHOHUTUmw6okVrTPsak2Mr7NKJ7LEinMbe2dYGHtfn91TuZKYr_7s_9_z__-__v__79f_r-3_3_vp9X---_e_V399xLv9QPKAJMNS-AizEscCSaNKoUQIQriQ6AUAFFCMLRNYQMrgp2VwEeoIGACA1ARgRAgxBRiwCAAACAJKIgJADwQCIAiAQAAgBUgIQAETAILACwMAgAFANCxAigCECQgyOCo5TAgIkWignkrAEou9jDCEMosAKBR_RUYCJQggWAAA.YAAAAAAAAAAA&us_privacy=&sec=1. Code 2147500036.", "resource://devtools/shared/DevToolsUtils.js", 556))
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 556: Error: Failed to fetch https://image6.pubmatic.com/AdServer/PugMaster?kdntuid=1&rnd=70248546&p=156077&s=0&a=0&ptask=ALL&np=0&fp=0&mpc=0&spug=1&coppa=0&gdpr=1&gdpr_consent=CPDQEhMPDQEhMBIACCPLBRCgAP_AAH_AAB5YHmNf_X__b39j-_59_9t0eY1f9_7_v-0zjhfds-8N2f_X_L8X42M7vF36pq4KuR4Eu3LBIQFlHOHUTUmw6okVrTPsak2Mr7NKJ7LEinMbe2dYGHtfn91TuZKYr_7s_9_z__-__v__79f_r-3_3_vp9X---_e_V399xLv9QPKAJMNS-AizEscCSaNKoUQIQriQ6AUAFFCMLRNYQMrgp2VwEeoIGACA1ARgRAgxBRiwCAAACAJKIgJADwQCIAiAQAAgBUgIQAETAILACwMAgAFANCxAigCECQgyOCo5TAgIkWignkrAEou9jDCEMosAKBR_RUYCJQggWAAA.YAAAAAAAAAAA&us_privacy=&sec=1. Code 2147500036.
+JavaScript error: resource://gre/modules/CrashManager.jsm, line 831: NotAllowedError: Shutting down and refusing additional I/O tasks
+1616067239793	geckodriver	INFO	Listening on 127.0.0.1:34395
+1616067239800	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileDmfiI9"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616067249349	Marionette	INFO	Listening on port 34013
+1616067249455	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616067274595	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: , line 0: TypeError: Failed to update the ServiceWorker for scope https://www.pudelek.pl/ because the registration has been changed since the update was scheduled.
+SourceActor threw an exception: Error: Failed to fetch https://simage4.pubmatic.com/AdServer/SPug?partnerID=62652&gdpr=1&gdpr_consent=CPDQEsCPDQEsCBIACCPLBRCgAP_AAH_AAB5YHmNf_X__b39j-_59_9t0eY1f9_7_v-0zjhfds-8N2f_X_L8X42M7vF36pq4KuR4Eu3LBIQFlHOHUTUmw6okVrTPsak2Mr7NKJ7LEinMbe2dYGHtfn91TuZKYr_7s_9_z__-__v__79f_r-3_3_vp9X---_e_V399xLv9QPKAJMNS-AizEscCSaNKoUQIQriQ6AUAFFCMLRNYQMrgp2VwEeoIGACA1ARgRAgxBRiwCAAACAJKIgJADwQCIAiAQAAgBUgIQAETAILACwMAgAFANCxAigCECQgyOCo5TAgIkWignkrAEou9jDCEMosAKBR_RUYCJQggWAAA.YAAAAAAAAAAA&us_privacy=. Code 2147500037.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:556:16
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 556, column: 16
+console.error: (new Error("Failed to fetch https://simage4.pubmatic.com/AdServer/SPug?partnerID=62652&gdpr=1&gdpr_consent=CPDQEsCPDQEsCBIACCPLBRCgAP_AAH_AAB5YHmNf_X__b39j-_59_9t0eY1f9_7_v-0zjhfds-8N2f_X_L8X42M7vF36pq4KuR4Eu3LBIQFlHOHUTUmw6okVrTPsak2Mr7NKJ7LEinMbe2dYGHtfn91TuZKYr_7s_9_z__-__v__79f_r-3_3_vp9X---_e_V399xLv9QPKAJMNS-AizEscCSaNKoUQIQriQ6AUAFFCMLRNYQMrgp2VwEeoIGACA1ARgRAgxBRiwCAAACAJKIgJADwQCIAiAQAAgBUgIQAETAILACwMAgAFANCxAigCECQgyOCo5TAgIkWignkrAEou9jDCEMosAKBR_RUYCJQggWAAA.YAAAAAAAAAAA&us_privacy=. Code 2147500037.", "resource://devtools/shared/DevToolsUtils.js", 556))
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 556: Error: Failed to fetch https://simage4.pubmatic.com/AdServer/SPug?partnerID=62652&gdpr=1&gdpr_consent=CPDQEsCPDQEsCBIACCPLBRCgAP_AAH_AAB5YHmNf_X__b39j-_59_9t0eY1f9_7_v-0zjhfds-8N2f_X_L8X42M7vF36pq4KuR4Eu3LBIQFlHOHUTUmw6okVrTPsak2Mr7NKJ7LEinMbe2dYGHtfn91TuZKYr_7s_9_z__-__v__79f_r-3_3_vp9X---_e_V399xLv9QPKAJMNS-AizEscCSaNKoUQIQriQ6AUAFFCMLRNYQMrgp2VwEeoIGACA1ARgRAgxBRiwCAAACAJKIgJADwQCIAiAQAAgBUgIQAETAILACwMAgAFANCxAigCECQgyOCo5TAgIkWignkrAEou9jDCEMosAKBR_RUYCJQggWAAA.YAAAAAAAAAAA&us_privacy=. Code 2147500037.
+SourceActor threw an exception: Error: Failed to fetch https://www.pudelek.pl/. Code 2147500036.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:556:16
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 556, column: 16
+console.error: (new Error("Failed to fetch https://www.pudelek.pl/. Code 2147500036.", "resource://devtools/shared/DevToolsUtils.js", 556))
+SourceActor threw an exception: Error: Failed to fetch https://gum.criteo.com/syncframe?topUrl=www.pudelek.pl&gdpr=1&gdpr_consent=CPDQEsCPDQEsCBIACCPLBRCgAP_AAH_AAB5YHmNf_X__b39j-_59_9t0eY1f9_7_v-0zjhfds-8N2f_X_L8X42M7vF36pq4KuR4Eu3LBIQFlHOHUTUmw6okVrTPsak2Mr7NKJ7LEinMbe2dYGHtfn91TuZKYr_7s_9_z__-__v__79f_r-3_3_vp9X---_e_V399xLv9QPKAJMNS-AizEscCSaNKoUQIQriQ6AUAFFCMLRNYQMrgp2VwEeoIGACA1ARgRAgxBRiwCAAACAJKIgJADwQCIAiAQAAgBUgIQAETAILACwMAgAFANCxAigCECQgyOCo5TAgIkWignkrAEou9jDCEMosAKBR_RUYCJQggWAAA.YAAAAAAAAAAA#{%22optout%22:{%22value%22:false,%22origin%22:0},%22uid%22:{%22origin%22:0},%22sid%22:{%22origin%22:0},%22origin%22:%22publishertag%22,%22version%22:105,%22lwid%22:{%22origin%22:0},%22tld%22:%22pudelek.pl%22,%22bundle%22:{%22origin%22:0},%22topUrl%22:%22www.pudelek.pl%22,%22cw%22:true,%22ifa%22:{%22origin%22:0},%22lsw%22:true}. Code 2147500036.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:556:16
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 556, column: 16
+console.error: (new Error("Failed to fetch https://gum.criteo.com/syncframe?topUrl=www.pudelek.pl&gdpr=1&gdpr_consent=CPDQEsCPDQEsCBIACCPLBRCgAP_AAH_AAB5YHmNf_X__b39j-_59_9t0eY1f9_7_v-0zjhfds-8N2f_X_L8X42M7vF36pq4KuR4Eu3LBIQFlHOHUTUmw6okVrTPsak2Mr7NKJ7LEinMbe2dYGHtfn91TuZKYr_7s_9_z__-__v__79f_r-3_3_vp9X---_e_V399xLv9QPKAJMNS-AizEscCSaNKoUQIQriQ6AUAFFCMLRNYQMrgp2VwEeoIGACA1ARgRAgxBRiwCAAACAJKIgJADwQCIAiAQAAgBUgIQAETAILACwMAgAFANCxAigCECQgyOCo5TAgIkWignkrAEou9jDCEMosAKBR_RUYCJQggWAAA.YAAAAAAAAAAA#{%22optout%22:{%22value%22:false,%22origin%22:0},%22uid%22:{%22origin%22:0},%22sid%22:{%22origin%22:0},%22origin%22:%22publishertag%22,%22version%22:105,%22lwid%22:{%22origin%22:0},%22tld%22:%22pudelek.pl%22,%22bundle%22:{%22origin%22:0},%22topUrl%22:%22www.pudelek.pl%22,%22cw%22:true,%22ifa%22:{%22origin%22:0},%22lsw%22:true}. Code 2147500036.", "resource://devtools/shared/DevToolsUtils.js", 556))
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 556: Error: Failed to fetch https://www.pudelek.pl/. Code 2147500036.
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 556: Error: Failed to fetch https://gum.criteo.com/syncframe?topUrl=www.pudelek.pl&gdpr=1&gdpr_consent=CPDQEsCPDQEsCBIACCPLBRCgAP_AAH_AAB5YHmNf_X__b39j-_59_9t0eY1f9_7_v-0zjhfds-8N2f_X_L8X42M7vF36pq4KuR4Eu3LBIQFlHOHUTUmw6okVrTPsak2Mr7NKJ7LEinMbe2dYGHtfn91TuZKYr_7s_9_z__-__v__79f_r-3_3_vp9X---_e_V399xLv9QPKAJMNS-AizEscCSaNKoUQIQriQ6AUAFFCMLRNYQMrgp2VwEeoIGACA1ARgRAgxBRiwCAAACAJKIgJADwQCIAiAQAAgBUgIQAETAILACwMAgAFANCxAigCECQgyOCo5TAgIkWignkrAEou9jDCEMosAKBR_RUYCJQggWAAA.YAAAAAAAAAAA#{%22optout%22:{%22value%22:false,%22origin%22:0},%22uid%22:{%22origin%22:0},%22sid%22:{%22origin%22:0},%22origin%22:%22publishertag%22,%22version%22:105,%22lwid%22:{%22origin%22:0},%22tld%22:%22pudelek.pl%22,%22bundle%22:{%22origin%22:0},%22topUrl%22:%22www.pudelek.pl%22,%22cw%22:true,%22ifa%22:{%22origin%22:0},%22lsw%22:true}. Code 2147500036.
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "node is null"
+console.error: "getLayout@resource://devtools/server/actors/page-style.js:1002:5\nhandler@resource://devtools/shared/protocol/Actor.js:172:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:68:16\n"
+console.warn: "fetching media rules failed" (new Error("Connection closed, pending request to server0.conn0.child3/stylesheet485, type getMediaRules failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:288:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\nonStyleSheetAdded@resource://devtools/shared/resources/legacy-listeners/stylesheet.js:17:37\nmodule.exports/<@resource://devtools/shared/resources/legacy-listeners/stylesheet.js:113:28\n_emit@resource://devtools/shared/event-emitter.js:226:34\nemit@resource://devtools/shared/event-emitter.js:172:18\nemit@resource://devtools/shared/event-emitter.js:324:18\nonPacket@resource://devtools/shared/protocol/Front.js:332:13\nonPacket@resource://devtools/client/devtools-client.js:489:13\nsend/<@resource://devtools/shared/transport/local-transport.js:68:25\nexports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22\nexports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22\npermitUnload@chrome://global/content/elements/browser-custom-element.js:1681:21\nCanCloseWindow@chrome://browser/content/browser.js:7761:36\nWindowIsClosing@chrome://browser/content/browser.js:7778:7\nBrowserTryToCloseWindow@chrome://browser/content/browser.js:3013:7\noncommand@chrome://browser/content/browser.xhtml:1:1\n", "resource://devtools/shared/protocol/Front.js", 99))
+console.warn: "fetching media rules failed" (new Error("Connection closed, pending request to server0.conn0.child3/stylesheet486, type getMediaRules failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:288:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\nonStyleSheetAdded@resource://devtools/shared/resources/legacy-listeners/stylesheet.js:17:37\nmodule.exports/<@resource://devtools/shared/resources/legacy-listeners/stylesheet.js:113:28\n_emit@resource://devtools/shared/event-emitter.js:226:34\nemit@resource://devtools/shared/event-emitter.js:172:18\nemit@resource://devtools/shared/event-emitter.js:324:18\nonPacket@resource://devtools/shared/protocol/Front.js:332:13\nonPacket@resource://devtools/client/devtools-client.js:489:13\nsend/<@resource://devtools/shared/transport/local-transport.js:68:25\nexports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22\nexports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22\npermitUnload@chrome://global/content/elements/browser-custom-element.js:1681:21\nCanCloseWindow@chrome://browser/content/browser.js:7761:36\nWindowIsClosing@chrome://browser/content/browser.js:7778:7\nBrowserTryToCloseWindow@chrome://browser/content/browser.js:3013:7\noncommand@chrome://browser/content/browser.xhtml:1:1\n", "resource://devtools/shared/protocol/Front.js", 99))
+console.warn: "Inspector destroyed while executing onReflow callback"
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1616067346962	Marionette	INFO	Stopped listening on port 34013
+1616067349000	geckodriver	INFO	Listening on 127.0.0.1:53697
+1616067349007	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilewtkfVa"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616067359691	Marionette	INFO	Listening on port 43699
+1616067359769	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616067388446	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1616067388448	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1616067410424	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1616067482141	geckodriver	INFO	Listening on 127.0.0.1:48873
+1616067482146	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileb5yvsu"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616067490930	Marionette	INFO	Listening on port 35527
+1616067491005	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5C0009,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+1616067538216	geckodriver	INFO	Listening on 127.0.0.1:36411
+1616067538223	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileRBxQlm"
+1616067538957	Marionette	INFO	Stopped listening on port 35527
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616067547559	Marionette	INFO	Listening on port 38911
+1616067547665	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616067581322	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1616067675191	geckodriver	INFO	Listening on 127.0.0.1:37853
+1616067675197	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilecn0Alq"
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1616067680148	Marionette	INFO	Stopped listening on port 38911
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616067687885	Marionette	INFO	Listening on port 36845
+1616067687962	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616067708832	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: , line 0: TypeError: Failed to update the ServiceWorker for scope https://www.pudelek.pl/ because the registration has been changed since the update was scheduled.
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1616067814106	Marionette	INFO	Stopped listening on port 36845
+1616067814436	geckodriver	INFO	Listening on 127.0.0.1:35803
+1616067814441	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileuIAUWn"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616067826498	Marionette	INFO	Listening on port 36321
+1616067826603	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 775))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 422))
+1616067857432	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1616067909011	Marionette	INFO	Stopped listening on port 36321
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616067912342	geckodriver	INFO	Listening on 127.0.0.1:52321
+1616067912348	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileBSYeQq"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616067925390	Marionette	INFO	Listening on port 37607
+1616067925508	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1616067980603	Marionette	INFO	Stopped listening on port 37607

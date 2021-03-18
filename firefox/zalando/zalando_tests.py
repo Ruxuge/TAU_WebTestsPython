@@ -25,8 +25,8 @@ def cookie_allow(driver):
             time.sleep(10)
             print("no element")
             cookie = 0
+            cookie_button.click()
 
-    cookie_button.click()
     print('cookies are allow')
 
 

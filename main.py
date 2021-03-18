@@ -1,6 +1,6 @@
-from chrome import chrome_zalando_tests
-from firefox import firefox_zalando_tests
+import firefox
+import chrome
+import opera
 
-#chrome_tests.chrome_bad_login()
-
-firefox_zalando_tests.main_function()
+#firefox.zalando_tests.main_function()
+#chrome.zalando_tests.main_function()
