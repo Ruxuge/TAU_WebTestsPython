@@ -3,9 +3,8 @@ import time
 
 from selenium import webdriver
 import logging
-import search_check as sc
 import login as l
-import send_donos as sd
+import search as s
 
 logger = logging.getLogger('simple_example')
 logger.setLevel(logging.INFO)
@@ -32,21 +31,19 @@ def pop_up(driver):
 
 
 if __name__ == "__main__":
-    url = 'https://www.pudelek.pl'
+    url = 'https://www.olx.pl/'
     driver = webdriver.Firefox(executable_path='/home/ruxuge/Dokumenty/geckodriver')
     driver.get(url)
     driver.maximize_window()
-    element = driver.find_element_by_xpath('/html/body/div[3]/div/div[2]/div[3]/div/button[2]')
+    element = driver.find_element_by_id('onetrust-accept-btn-handler')
     element.click()
     #b = threading.Thread(target=pop_up(driver))
     #b.start()
-    sc.search_covid(driver)
-    driver.get(url)
-    sc.search_covid(driver)
-    driver.get(url)
     l.bad_login(driver)
     driver.get(url)
     l.bad_password(driver)
     driver.get(url)
-    sd.send_correct_text_donos(driver)
-    driver.close()
+    s.search_car_with_category(driver)
+    driver.get(url)
+    s.search_car_without_category(driver)
+    driver.get(url)

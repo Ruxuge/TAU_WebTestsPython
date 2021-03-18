@@ -1,5 +1,6 @@
 import time
 
+
 def bad_login(driver):
     element = driver.find_element_by_id('ol-widget-login-button')
     time.sleep(10)
@@ -11,7 +12,6 @@ def bad_login(driver):
     element.send_keys("password")
     element = driver.find_element_by_xpath('/html/body/div[3]/div[1]/main/div/div/div/div[1]/form/button')
     element.click()
-    driver.close()
 
 
 def bad_password(driver):
@@ -25,5 +25,3 @@ def bad_password(driver):
     element.send_keys("password")
     element = driver.find_element_by_xpath('/html/body/div[3]/div[1]/main/div/div/div/div[1]/form/button')
     element.click()
-    driver.close()
-
