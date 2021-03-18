@@ -1,130 +1,27 @@
-import threading
-import time
-from selenium import webdriver
-import logging
+import run_tests.firefox_tests as ft
+import run_tests.chrome_tests as ct
+import run_tests.opera_tests as ot
 
 
-# logger = logging.getLogger('simple_example')
-# logger.setLevel(logging.INFO)
-# ch = logging.StreamHandler()
-# ch.setLevel(logging.DEBUG)
-# formatter = logging.Formatter('%(asctime)s - %(name)s - %(levelname)s - %(message)s')
-# ch.setFormatter(formatter)
-# logger.addHandler(ch)
+def firefox_test():
+    ft.olx_t()
+    ft.github_t()
+    ft.pudelek_t()
 
 
-def firefox_pudelek_main():
-    import firefox.pudelek.donos as d
-    import firefox.pudelek.search as s
-    import firefox.pudelek.login as l
-
-    def pop_up(driver):
-        pop = 0
-        while pop == 0:
-            try:
-                pop_button = driver.find_element_by_css_selector('.m0zy07y')
-                pop = 1
-            except:
-                time.sleep(10)
-                print("no element")
-                pop = 0
-                pop_button.click()
-
-        print('pop are denide')
-
-    def main():
-        url = 'https://www.pudelek.pl'
-        driver = webdriver.Firefox(executable_path='/home/ruxuge/Dokumenty/geckodriver')
-        driver.get(url)
-        driver.maximize_window()
-        element = driver.find_element_by_xpath('/html/body/div[3]/div/div[2]/div[3]/div/button[2]')
-        element.click()
-        # b = threading.Thread(target=pop_up(driver))
-        # b.start()
-        s.search_covid(driver)
-        driver.get(url)
-        l.bad_login(driver)
-        driver.get(url)
-        l.bad_password(driver)
-        driver.get(url)
-        d.send_correct_text_donos(driver)
-        driver.close()
+def chrome_test():
+    ct.olx_t()
+    ct.github_t()
+    ct.pudelek_t()
 
 
-def firefox_olx_main():
-    import firefox.olx.login as l
-    import firefox.olx.search as s
-
-    def pop_up(driver):
-        pop = 0
-        while pop == 0:
-            try:
-                pop_button = driver.find_element_by_css_selector('.m0zy07y')
-                pop = 1
-            except:
-                time.sleep(10)
-                print("no element")
-                pop = 0
-                pop_button.click()
-
-        print('pop are denide')
-
-    if __name__ == "__main__":
-        url = 'https://www.olx.pl/'
-        driver = webdriver.Firefox(executable_path='/home/ruxuge/Dokumenty/geckodriver')
-        driver.get(url)
-        driver.maximize_window()
-        element = driver.find_element_by_id('onetrust-accept-btn-handler')
-        element.click()
-        # b = threading.Thread(target=pop_up(driver))
-        # b.start()
-        l.bad_login(driver)
-        driver.get(url)
-        l.bad_password(driver)
-        driver.get(url)
-        s.search_car_with_category(driver)
-        driver.get(url)
-        s.search_car_without_category(driver)
-        driver.get(url)
-
-
-def firefox_github_main():
-    # This test work properly only when you insert working login and password to login.py file in line 20 and 22.
-    import firefox.github.login as l
-    import firefox.github.search as s
-
-    def pop_up(driver):
-        pop = 0
-        while pop == 0:
-            try:
-                pop_button = driver.find_element_by_css_selector('.m0zy07y')
-                pop = 1
-            except:
-                time.sleep(10)
-                print("no element")
-                pop = 0
-                pop_button.click()
-
-        print('pop are denide')
-
-    if __name__ == "__main__":
-        url = 'https://github.com/'
-        driver = webdriver.Firefox(executable_path='/home/ruxuge/Dokumenty/geckodriver')
-        driver.get(url)
-        driver.maximize_window()
-        # b = threading.Thread(target=pop_up(driver))
-        # b.start()
-        l.bad_login(driver)
-        driver.get(url)
-        l.correct_login(driver)
-        s.find_repository(driver)
-        driver.get(url)
-        s.find_user(driver)
-        driver.get(url)
-        l.logout(driver)
+def opera_test():
+    ot.olx_t()
+    ot.pudelek_t()
+    ot.github_t()
 
 
 if __name__ == "__main__":
-    firefox_pudelek_main()
-    firefox_olx_main()
-    firefox_github_main()
+    opera_test()
+    chrome_test()
+    firefox_test()
