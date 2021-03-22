@@ -9,8 +9,8 @@ def bad_login(driver):
     element.send_keys("login")
     element = driver.find_element_by_id('userPass')
     element.send_keys("password")
-    #element = driver.find_element_by_id('se_userLogin')
-    #element.click
+    element = driver.find_element_by_id('se_userLogin')
+    element.click
     print("correct end")
 
 

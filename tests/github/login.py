@@ -20,9 +20,9 @@ def correct_login(driver):
     element = driver.find_element_by_xpath('/html/body/div[1]/header/div/div[2]/div[2]/a[1]')
     element.click()
     element = driver.find_element_by_id('login_field')
-    element.send_keys(" ") #insert your login
+    element.send_keys("Ruxuge") #insert your login
     element = driver.find_element_by_id('password')
-    element.send_keys(" ") #insert your password
+    element.send_keys("Ruxuge.123") #insert your password
     element.send_keys(Keys.ENTER)
     time.sleep(10)
     print("correct end")

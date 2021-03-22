@@ -70,6 +70,7 @@ def olx_t():
     driver.get(url)
     s.search_car_without_category(driver)
     driver.get(url)
+    driver.close()
 
 
 def github_t():
@@ -91,3 +92,4 @@ def github_t():
     s.find_user(driver)
     driver.get(url)
     l.logout(driver)
+    driver.close()

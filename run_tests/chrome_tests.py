@@ -36,6 +36,7 @@ def pudelek_t():
     driver = webdriver.Chrome(executable_path='/home/ruxuge/Dokumenty/chromedriver')
     driver.get(url)
     driver.maximize_window()
+    time.sleep(10)
     element = driver.find_element_by_xpath('/html/body/div[3]/div/div[2]/div[3]/div/button[2]')
     element.click()
     # b = threading.Thread(target=pop_up(driver))
@@ -69,7 +70,7 @@ def olx_t():
     s.search_car_with_category(driver)
     driver.get(url)
     s.search_car_without_category(driver)
-    driver.get(url)
+    driver.close()
 
 
 def github_t():
@@ -91,3 +92,4 @@ def github_t():
     s.find_user(driver)
     driver.get(url)
     l.logout(driver)
+    driver.close()
