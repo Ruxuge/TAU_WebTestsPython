@@ -13,6 +13,7 @@ Main.py run 3 function for 3 browsers. Each of these func are in main and they r
 In package tests are package with tests for all tested sites.
 
 Tests:
+
     In github are tested login process: with bad login, correct login and logout.
     Second tested thing in github is search process: search user and repo.
 
